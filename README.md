@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Juma Mwinga from Kenya.<br>- 📚 I'm currently learning software development at the Power Learn Project.<br>- ⚡ In my free time, I do coding.</p>
+<p align="left">I'm Juma Mwinga from Kenya.<br>- 📚 I'm currently learning software development at the Power Learn Project.<br>- ⚡ In my free time, I like coding.</p>
 
 ###
 
